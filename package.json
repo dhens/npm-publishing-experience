@@ -1,6 +1,6 @@
 {
   "name": "npm-publishing-experience",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "getting experience publishing an npm package the way the industry does it.",
   "main": "index.js",
   "scripts": {
