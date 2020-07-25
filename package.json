@@ -1,0 +1,14 @@
+{
+  "name": "npm-publishing-experience",
+  "version": "1.0.0",
+  "description": "getting experience publishing an npm package the way the industry does it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dawson H",
+  "license": "ISC",
+  "dependencies": {
+    "np": "^6.3.2"
+  }
+}
